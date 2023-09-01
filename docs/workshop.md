@@ -59,7 +59,7 @@ Very small living things, or “bugs,” that can be helpful (they help to diges
 
 ### Value of college education
 
-#### Chain of thought
+#### Chain of thought (kinda)
 
 ##### Thought 1
 
