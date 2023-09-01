@@ -32,7 +32,7 @@ Antony J. Kunnan & Geoffrey T. LaFlair
 
 ## Examples
 
-### One
+### Bioluminescence
 
 You are a biology expert. Write a passage about bioluminescence that meets four criteria:
 
@@ -57,11 +57,41 @@ Possible good answer:
 Very small living things, or “bugs,” that can be helpful (they help to digest food) or can cause illness (strep throat, for example).
 
 
-### Two
+### Value of college education
 
-You are an expert in elementary education. You will write an essay about the benefits and drawbacks of homework. Your essay will have the following content:
+#### Chain of thought
 
-An introduction to the topic
-Information about the benefits of homework
-Information about the drawbacks of homework
-A concluding paragraph that supports one side of the argument
+##### Thought 1
+
+You are a language assessment expert. Write an argumentative writing prompt. It will meet the criteria below:
+
+- Be about the value of a college education
+- Be at the undergraduate level
+- Be answerable in 15 minutes
+- Be about two sentences long
+
+
+##### Thought 2
+
+Make a rubric for scoring the responses. The rubric will have a 5-point scale. The rubric will measure the following within each point
+
+- Organization
+- Argumentation
+- Vocabulary use
+- Grammar
+
+##### Thought 3
+
+Don't enumerate within points
+
+##### Thought 4
+
+Don't separate the four categories
+
+##### Thought 5
+
+Turn it into a table
+
+##### Thought 6
+
+Combine the four categories
