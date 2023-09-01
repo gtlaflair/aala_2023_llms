@@ -2,12 +2,12 @@
 
 Antony J. Kunnan & Geoffrey T. LaFlair
 
-![](logo.png)
+![](logo.png =100x20)
 
 ## Goals
-- Reconceptualize test development 
-- from a digital fist perspective
-- in the age of large language models
+Reconceptualize test development 
+- digital fist perspective
+- leverage large language models
 
 ## Be able to generate 
 - content for reading assessments
