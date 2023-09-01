@@ -2,8 +2,6 @@
 
 Antony J. Kunnan & Geoffrey T. LaFlair
 
-![](logo.png | width=100)
-
 <img src="logo.png" alt="logo" width="20%" height="20%">
 
 ## Goals
