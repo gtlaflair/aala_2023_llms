@@ -2,7 +2,7 @@
 
 Antony J. Kunnan & Geoffrey T. LaFlair
 
-![](logo.png =100x20)
+![](logo.png | width=100)
 
 ## Goals
 Reconceptualize test development 
