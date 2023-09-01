@@ -2,6 +2,8 @@
 
 Antony J. Kunnan & Geoffrey T. LaFlair
 
+![](logo.png)
+
 ## Goals
 - Reconceptualize test development 
 - from a digital fist perspective
