@@ -113,5 +113,5 @@ Combine the four categories
 
 ## Papers
 
-- ![Rating Short L2 Essays on the CEFR Scale with GPT-4](https://aclanthology.org/2023.bea-1.49.pdf)
-- ![Automated Evaluation of Written Discourse Coherence Using GPT-4](https://aclanthology.org/2023.bea-1.32.pdf)
+- [Rating Short L2 Essays on the CEFR Scale with GPT-4](https://aclanthology.org/2023.bea-1.49.pdf)
+- [Automated Evaluation of Written Discourse Coherence Using GPT-4](https://aclanthology.org/2023.bea-1.32.pdf)
